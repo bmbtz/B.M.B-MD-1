@@ -1,6 +1,10 @@
 # B.M.B-XMD
 
-**B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
+**B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.  
+
+---
+🌟
+---
 
 ## Quick Start
 
@@ -26,9 +30,9 @@ Use the QR Code below for seamless authentication:
 ---
 
 ### 4. Deploy to Heroku  
-Deploy the bot effortlessly with Heroku:  
+Deploy the bot effortlessly using the provided template:  
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)](https://github.com/bmbttz/B.M.B-MD)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/bmbttz/B.M.B-MD)  
 
 If you don't have a Heroku account, click here to create one:  
 [![Create Heroku Account](https://img.shields.io/badge/Create-Heroku%20Account-red?style=for-the-badge)](https://signup.heroku.com/)
@@ -39,7 +43,7 @@ If you don't have a Heroku account, click here to create one:
 
 ### WhatsApp Channel  
 Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)  
+[![WhatsApp Channel](https://files.catbox.moe/fyhi1n.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
 
 ### WhatsApp Group  
 Join our WhatsApp group to connect with the community:  
