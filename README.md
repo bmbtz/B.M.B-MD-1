@@ -46,7 +46,7 @@ If you don't have a Heroku account, click here to create one:
 
 ### WhatsApp Channel  
 Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://files.catbox.moe/fyhi1n.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
 
 ### WhatsApp Group  
 Join our WhatsApp group to connect with the community:  
