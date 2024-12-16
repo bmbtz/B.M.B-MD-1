@@ -1,6 +1,9 @@
 # B.M.B-XMD
 
-**B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.  
+**B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
+
+Stay updated with our WhatsApp channel:  
+[![WhatsApp Channel](https://files.catbox.moe/fyhi1n.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
 
 ---
 🌟
@@ -37,7 +40,7 @@ Deploy the bot effortlessly using the provided template:
 If you don't have a Heroku account, click here to create one:  
 [![Create Heroku Account](https://img.shields.io/badge/Create-Heroku%20Account-red?style=for-the-badge)](https://signup.heroku.com/)
 
----
+🌟 DON'T FORGET TO STAR THIS REPO 🙏
 
 ## Links & Channels  
 
