@@ -54,7 +54,7 @@ Join our WhatsApp group to connect with the community:
 
 ### YouTube Channel  
 Subscribe to our YouTube channel for the latest updates:  
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@user-em9qv5qt3r?si=iLv3D-6wBOhCStw5)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@user-em9qv5qt3r?si=a2Z6TvtHS6vnrUYs)
 
 ---
 
