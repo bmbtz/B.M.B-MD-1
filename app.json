@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/fyhi1n.jpg",
+  "logo": "https://files.catbox.moe/jl5lhm.jpg",
   "repository": "https://github.com/bmbttz/B.M.B-MD",
   "succes_url": "/",
   "stack": "container",
@@ -49,7 +49,7 @@
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/fyhi1n.jpg",
+      "value":"https://files.catbox.moe/lv4c5a.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -80,7 +80,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255772341432"
+      "value": "255741752020"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
