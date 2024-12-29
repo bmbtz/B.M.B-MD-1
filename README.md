@@ -50,7 +50,7 @@ Stay updated with our WhatsApp channel:
 
 ### WhatsApp Group  
 Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z))  
+[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/GNP3fyNgBeOElKqQEsgcvo)  
 
 ### YouTube Channel  
 Subscribe to our YouTube channel for the latest updates:  
