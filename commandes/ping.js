@@ -1,24 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-const moment = require("moment-timezone");
-const { default: axios } = require('axios');
-//const conf = require('../set');
-
-
-zokou({ nomCom: 'ping',
-    desc: 'To check ping',
-    Categorie: 'General',
-    reaction: '🚀', 
-    fromMe: 'true', 
-
-       
-  },
-  async (dest, zk, commandeOptions) => {
-    const { ms, arg, repondre } = commandeOptions;
-    const { start} = new Date().getTime()
-    return repondre(''MR-B.M.B-MD speed 🚗999999) 
-    const { end } = new Date().getTime(https://files.catbox.moe/y5v6iz.png)
-    await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
-  }
-)
-
-
+zokou({ nomCom: "ping", reaction: "https://files.catbox.moe/y5v6iz.png", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = 'AM ALIVE STUPID.... \n\n\nGO GITHUB AND SEARCH B.M.B MD V1 FORK THE REPO DEPLOY AND DM FOR YOURE 15$\n\n\n';
+    let d = '                                                                           I LOVE MY OWNER 𝚳𝚪 B.M.B';
+    let varmess = z + d;
+    var video = 'https://i.imgur.com/UfpoNZT.mp4';
+    await zk.sendMessage(dest, { video: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon test");
