@@ -8,7 +8,7 @@ zokou({ nomCom: 'ping',
     desc: 'To check ping',
     Categorie: 'General',
     reaction: '🚀', 
-    fromMe: 'true', 
+    fromMe: 'https://files.catbox.moe/24a6kt.jpg', 
 
        
   },
