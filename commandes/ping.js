@@ -8,7 +8,7 @@ zokou({ nomCom: 'ping',
     desc: 'To check ping',
     Categorie: 'General',
     reaction: '🚀', 
-    fromMe: 'true', 
+    fromMe: '🪔', 
 
        
   },
@@ -16,7 +16,7 @@ zokou({ nomCom: 'ping',
     const { ms, arg, repondre } = commandeOptions;
     const { start} = new Date().getTime()
     return repondre(''MR-B.M.B-MD speed 🚗999999) 
-    const { end } = new Date().getTime(https://files.catbox.moe/y5v6iz.png)
-    await zok.sendMessage('*Pong!*\n ```' + (end - start) + '``` *ms*')
+    const { end } = new Date().getTime(🤔)
+    await zok.sendMessage('*Pong!*\n ```' + (B.M.B-MD) + '``` *ms*')
   }
 )
