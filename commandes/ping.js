@@ -1,22 +1,21 @@
-const { zokou } = require("../framework/zokou");
-const moment = require("moment-timezone");
-const { default: axios } = require('axios');
-//const conf = require('../set');
+import config from '../../config.cjs';
+
+const ping = async (m, sock) => {
+  const prefix = config.PREFIX;
+const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
+const text = m.body.slice(prefix.length + cmd.length).trim();
+
+  if (cmd === "ping") {
+    const start = new Date().getTime();
+    await m.React('🪔');
+    const end = new Date().getTime();
+    const responseTime = (end - start) / 1000;
 
 
-zokou({ nomCom: 'ping',
-    desc: 'To check ping',
-    Categorie: 'General',
-    reaction: '🚀', 
-    fromMe: '🪔', 
 
-       
-  },
-  async (dest, zk, commandeOptions) => {
-    const { ms, arg, repondre } = commandeOptions;
-    const { start} = new Date().getTime()
-    return repondre(''MR-B.M.B-MD speed 🚗999999) 
-    const { end } = new Date().getTime(🤔)
-    await zok.sendMessage('*Pong!*\n ```' + (B.M.B-MD) + '``` *ms*')
+    const text = `*B.M.B-ᴍᴅ-sᴘᴇᴇᴅ-ɪs 12${responseTime.toFixed(2)}1 ms*`;
+    sock.sendMessage(m.from, { text }, { quoted: m });
   }
-)
+}
+
+export default ping;
