@@ -3,10 +3,10 @@
 **B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
 
 Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://files.catbox.moe/jl5lhm.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
+[![WhatsApp Channel](https://files.catbox.moe/5ztxes.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
 
 ---
-🌟
+🌟🪔🚀
 ---
 
 ## Quick Start
