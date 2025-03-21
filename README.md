@@ -36,7 +36,7 @@ Use the QR Code below for seamless authentication:
 Deploy the bot effortlessly using the provided template:  
 </p>
 
-- <a href="https://dashboard.heroku.com/new?template=https://github.com/bmbttz/B.M.B_TECH"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?template=https://github.com/bmbtz/B.M.B-MD-1.git"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
